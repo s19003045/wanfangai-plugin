@@ -14,7 +14,7 @@
 'use strict';
 const PLATFORM = 'https://platform.deepwaterslife.com';
 /** The version this copy was built as (plugin.json). */
-const PLUGIN_VERSION = '2026.10.9';
+const PLUGIN_VERSION = '2026.10.10';
 /** plugin.json in the repo people install from; '' or unfilled = no check. */
 const LATEST_URL = 'https://raw.githubusercontent.com/s19003045/wanfangai-plugin/main/plugins/wanfangai/plugin.json';
 
